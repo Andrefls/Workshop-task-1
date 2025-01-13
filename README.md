@@ -1,3 +1,5 @@
+Link to the website: https://andrefls.github.io/Workshop-task-1/
+
 # Workshop-task-1
 Task 1
 - My idea was to complete the task 1 by fixing the problems I had in task 0.
