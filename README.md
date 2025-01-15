@@ -120,9 +120,10 @@ ________________________________________________________________________________
   }
 }```
 
-```Espero que esto te ayude. ¡Si tienes alguna pregunta o necesitas más ayuda, no dudes en preguntar!```
+Espero que esto te ayude. ¡Si tienes alguna pregunta o necesitas más ayuda, no dudes en preguntar!
 ___________________________________________________________________________________
 
+'
 - Based on the function created by Meta, I attempted to implement it in my p5.js code, but encountered issues due to differing values. Following our lecture's advice, I realized that I needed to understand this function rather than simply use it.
 - My first question was about the use of the exclamation mark (!) before the word "explosion."
 - After conducting some research https://www.reddit.com/r/JavaScriptTips/comments/131tnep/use_of_exclamation_mark_after_variable_in/?rdt=63808, I discovered that the exclamation mark was serving to make the explosion false, which was necessary since I didn't want the explosion to occur before the first bounce.
