@@ -46,6 +46,7 @@ function draw() {
 - "Can you show me a function where the circles explodes at y > height using an ellipse” and
 - I paste my coding
 
+```javascript
 let y = 5;
 let x = 5;
 let d = 5;
@@ -57,7 +58,6 @@ let ygreenmove = 0;
 let ybluemove = 0;
 let ymove = 10;
 let xmove = 10;
-
 function setup() {
   createCanvas(400, 200);
 }
@@ -107,20 +107,19 @@ function littlecirclesblue(xblue, ypos, dsize) {
   loop();
 }
 ```
-_________________________________________________________________________________
 - Meta reply below: (spanish language as it looks like my Meta is in Spanish)`
 
-```¡Claro! Aquí te presento la versión```
-```function Explosion(x, y, d) {
+¡Claro! Aquí te presento la versión
+
+```javascript
+function Explosion(x, y, d) {
   fill(0, 255, 0);
   noStroke();
   for (let i = 0; i < 10; i++) {
     ellipse(x + random(-20, 20), y + random(-20, 20), random(1, 5), random(1, 5));
   }
-}
-
+}```
 Espero que esto te ayude. ¡Si tienes alguna pregunta o necesitas más ayuda, no dudes en preguntar!
-___________________________________________________________________________________
 
 - Based on the function created by Meta, I attempted to implement it in my p5.js code, but encountered issues due to differing values. Following our lecture's advice, I realized that I needed to understand this function rather than simply use it.
 - My first question was about the use of the exclamation mark (!) before the word "explosion."
