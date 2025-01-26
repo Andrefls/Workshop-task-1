@@ -1,6 +1,6 @@
-Link to the website: https://andrefls.github.io/Workshop-task-1/
+Website Link: https://andrefls.github.io/Workshop-task-1/
 
-Synopsis
+## Synopsis
 
 - After completing Workshop Task 0, I am eager to apply what I've learned to Workshop 1.
 - Initially, I wanted to make the circles bounce back and change their colors.
@@ -8,7 +8,7 @@ Synopsis
 - However, after reviewing the synopsis of Task 1, I changed my mind and now I want to make the circles explode.
 
 
-Summary/Problem-solving
+## Summary/Problem-solving
 
 - I realized that by using the following code, I could create a limit that allowed the circles to bounce back:
 
@@ -135,11 +135,11 @@ Espero que esto te ayude. ¡Si tienes alguna pregunta o necesitas más ayuda, no
 - I spent nearly an entire afternoon working through various errors in p5.js, but ultimately,
 - I succeeded in creating an explosion using basic coding techniques.
 
-Future development
+## Future development
 
 - Now the problems persist as I don't know how to reset the explosion back to the starting position. For my next workshop, I will try to stop the explosion and restart it again.
 
-Conclusion
+## Conclusion
 
 - This has been the most challenging task I've faced while learning a new language. In fact, I am still in the process of learning.
 - I'm happy that I succeeded with the explosion, but I must admit that I'm still not completely satisfied with it. I hope that by the time I finish this course, I will be able to create some cool art on the screen
